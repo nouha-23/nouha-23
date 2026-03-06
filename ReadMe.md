@@ -1,5 +1,15 @@
 # 💫 About Me:
 I’m Nouhaila, a Bachelor student in Artificial Intelligence with a solid background in mathematics, statistics, and programming (Python/Java/SQL).<br>I’m building projects in data, machine learning, and web development while transitioning from my previous experience in math tutoring.<br>I enjoy solving analytical problems, organizing complex information, and creating tools that help people learn better.<br>Currently looking for a 2‑month internship in AI, data, or software development.
+Bonjour, je suis Nouhaila, étudiante en première année de Bachelor en intelligence artificielle à Cesi Toulouse, avec une solide formation en mathématiques, données et programmation.
+Après plusieurs années dans l'enseignement des mathématiques et le tutorat personnalisé, je me tourne vers le monde de la tech, où je développe mes compétences en :
+
+* Python, Java, SQL
+* Analyse de données et algorithmique
+* Développement web (React, Node.js)
+* Outils IA et applications basées sur les LLM
+
+Je m'intéresse particulièrement aux projets où la technologie rencontre l'éducation, et où je peux utiliser mon esprit analytique pour résoudre des problèmes concrets.
+Actuellement à la recherche d'un stage de 2 mois en data, IA ou développement logiciel.
 
 
 ## 🌐 Socials:
